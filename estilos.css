@@ -1,0 +1,97 @@
+footer {
+        position: absolute; 
+        bottom: 0px; 
+        width: 100%; 
+        height: 60px; 
+        background-color: black;
+        font-color:white;
+    }
+
+
+	.al1{
+
+		color: red;
+	}
+
+
+.pag-rodape{
+
+	background-color: #1C1C1C;
+	color: gray;
+    clear: both;
+    position: fixed;
+    bottom: 6;
+    left: 0;
+    width: 100%;
+    height: 90;
+}
+
+.TitAzul{
+	text-align: center;
+	background-color: blue;
+    color: white;
+}
+
+.TitLaranja{
+	text-align: center;
+	background-color: orange;
+}
+
+#BarraSocialIndex{
+	text-align: center;
+	background-color: blue;
+}
+
+.PropriedadesImagem{
+
+	position: fixed; 
+	left:0pt;
+}
+
+.minha-foto {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+body{
+	background-color: ghostwhite;
+    line-height: 1.5;
+}
+
+blockquote{
+padding: 20px;
+background-color: #add8e6;
+border: 7px solid blue;
+box-sizing: border-box;
+width: 500px;
+border-left-color: #333;
+border-right-color: #333;
+margin: 20px 40px;
+
+}
+
+aside{
+    text-align: center;
+
+}
+
+.secsec{
+    width: 720px;
+    margin: auto;
+}
+
+
+#ParaAsRedes{
+    background-color: #8ddcd5;
+
+}
+.imagemfixa{
+
+    color: ghostwhite;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    float: right;
+   }

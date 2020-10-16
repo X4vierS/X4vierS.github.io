@@ -1,0 +1,21 @@
+p{
+	font-size: 20;
+}
+
+.carousel{
+	
+	float: left;
+	width: 320px ;
+	position: fixed;
+}
+
+.corSite{
+	background-color: aqua;
+	color: aqua;
+	
+}
+
+#posicao{
+	position: static;
+
+}
